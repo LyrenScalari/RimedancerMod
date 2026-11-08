@@ -11,7 +11,7 @@ using RimedancerMod.RimedancerModCode.Orbs;
 
 namespace RimedancerMod.RimedancerModCode.Cards;
 
-public class CrystalChakram() : RimedancerModCard(0, CardType.Attack, CardRarity.Common, TargetType.AnyEnemy)
+public class CrystalChakram() : RimedancerModCard(0, CardType.Attack, CardRarity.Uncommon, TargetType.AnyEnemy)
 {
     protected override IEnumerable<IHoverTip> ExtraHoverTips => [HoverTipFactory.Static(MainFile.Fire),HoverTipFactory.FromOrb<Icicle>()];
     protected override IEnumerable<DynamicVar> CanonicalVars => [new DynamicVar("Fire",1), new DamageVar(2,ValueProp.Move), new CardsVar(1)];

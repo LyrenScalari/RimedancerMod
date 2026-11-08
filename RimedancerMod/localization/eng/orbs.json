@@ -9,5 +9,9 @@
 
   "RIMEDANCERMOD-SPECTRE.smartDescription": "[gold]Passive:[/gold] While [gold]Encoded[/gold] takes [blue]{Passive}%[/blue] more damage.\\n[gold]Decode:[/gold] Gain [blue]{Evoke}[/blue] [gold]Weak[/gold].",
   "RIMEDANCERMOD-SPECTRE.description": "Orb: Increases damage taken, When [gold]Decoded[/gold] grants [gold]Weak[/gold].",
-  "RIMEDANCERMOD-SPECTRE.title": "Spectre"
+  "RIMEDANCERMOD-SPECTRE.title": "Spectre",
+
+  "RIMEDANCERMOD-FRACTAL_CHARGE.smartDescription": "[gold]Passive:[/gold] At the end of turn damage increases by [blue]{Passive}%[/blue], [gold]Decode[/gold] immediately and damage ALL enemies at [blue]30[/blue] damage.\n[gold]Decode:[/gold] Take [blue]{Evoke}[/blue] damage.",
+  "RIMEDANCERMOD-FRACTAL_CHARGE.description": "Orb: When [gold]Decoded[/gold] holder takes damage.\nIncreases damage every turn, [gold]Decodes[/gold] automatically and damages ALL enemies if damage exceeds [blue]30[/blue]",
+  "RIMEDANCERMOD-FRACTAL_CHARGE.title": "Fractal Charge"
 }

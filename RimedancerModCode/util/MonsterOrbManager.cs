@@ -63,7 +63,6 @@ public partial class MonsterOrbManager : Control
 
     public override void _Ready()
     {
-        ModHelper.SubscribeForCombatStateHooks(_creatureNode.Name+":RimedancerMonsterOrbManager", CombatStateHooks);
         _orbContainer = GetNode<Control>("Orbs");
     }
 
@@ -98,15 +97,18 @@ public partial class MonsterOrbManager : Control
 
         return mgr;
     }
-    private OrbModel[] CombatStateHooks(CombatState state)
+    internal static AbstractModel[] CombatStateHooks(CombatState state)
     {
-        OrbModel[] orbs = [];
-        foreach (OrbModel orb in _orbs)
+        List<AbstractModel> orbs = [];
+        foreach (var mgr in Instances)
         {
-            GD.Print(orb.Title +" found : Adding to combat hooks");
-            orbs.Append(orb);
+            foreach (OrbModel orb in mgr._orbs)
+            {
+                orbs.Add(orb);
+            }
         }
-        return orbs;
+
+        return [.. orbs];
     }
     public async Task BeforeTurnEnd(PlayerChoiceContext choiceContext) => await TriggerOrbs(choiceContext, VanillaOrbMonsterHandler.TryHandleBeforeTurnEnd, o => o.BeforeTurnEndOrbTrigger(choiceContext));
 

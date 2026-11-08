@@ -28,5 +28,6 @@ public class IllusionarySpooky() : RimedancerModCard(1,
 
     protected override void OnUpgrade()
     {
+        EnergyCost.UpgradeBy(-1);
     }
 }

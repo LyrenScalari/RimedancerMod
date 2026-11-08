@@ -45,7 +45,7 @@ public class Spectre: EncodedOrbModel
     {
         GD.Print("Spectre orb damage modified hook.");
         if (target != Holder) return 1M;
-        return PassiveVal;
+        return 1+(PassiveVal/100);
     }
     public override async Task<IEnumerable<Creature>> Evoke(PlayerChoiceContext choiceContext)
     {

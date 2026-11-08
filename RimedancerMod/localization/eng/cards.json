@@ -68,7 +68,10 @@
 
   "RIMEDANCERMOD-SNOWSCAPE.description": "Apply {Rime:diff()} [gold]Rime[/gold] {IfUpgraded:show:to ALL enemies}.\n[gold]Channel[/gold] {Channel:diff()} [gold]Hail[/gold].",
   "RIMEDANCERMOD-SNOWSCAPE.title": "Snowscape",
-
+  
+  "RIMEDANCERMOD-EXPLOSIVE_RUNE.description": "Gain {Block:diff()} [gold]Block[/gold].\n[gold]Encode[/gold] {Encode:diff()} [gold]Fractal Charge[/gold].",
+  "RIMEDANCERMOD-EXPLOSIVE_RUNE.title": "Explosive Rune",
+  
   "RIMEDANCERMOD-EVASIVE_SWIPE.description": "Gain {Block:diff()} [gold]Block[/gold].\n[gold]Exploit[/gold] [gold]Weak[/gold]- Draw {Cards:diff()} {Cards:plural:card|cards} and [gold]Flourish[/gold] {Repeat:plural:|twice}.",
   "RIMEDANCERMOD-EVASIVE_SWIPE.title": "Evasive Swipe",
 
