@@ -1,0 +1,13 @@
+﻿{
+  "RIMEDANCERMOD-ICICLE.smartDescription": "[gold]Passive:[/gold] At the end of turn, deal [blue]{Passive}[/blue] damage to the last targeted enemy.\\n[gold]Evoke:[/gold] Deal [blue]{Evoke}[/blue] damage to the last targeted enemy and [gold]Evoke[/gold] your next orb if its an Icicle.",
+  "RIMEDANCERMOD-ICICLE.description": "Orb: Deals damage to the enemy most recently targeted by your cards, When [gold]Evoked[/gold] also [gold]Evokes[/gold] your next orb if its an Icicle.",
+  "RIMEDANCERMOD-ICICLE.title": "Icicle",
+
+  "RIMEDANCERMOD-HAIL.smartDescription": "[gold]Passive:[/gold] After you play a Skill, deal [blue]{Passive}[/blue] damage to a random enemy.\\n[gold]Evoke:[/gold] Gain [blue]{Evoke}[/blue] Temporary [gold]Focus[/gold].",
+  "RIMEDANCERMOD-HAIL.description": "Orb: Deals damage random enemies when you play Skills, When [gold]Evoked[/gold] grants temporary [gold]Focus[/gold].",
+  "RIMEDANCERMOD-HAIL.title": "Hail",
+
+  "RIMEDANCERMOD-SPECTRE.smartDescription": "[gold]Passive:[/gold] While [gold]Encoded[/gold] takes [blue]{Passive}%[/blue] more damage.\\n[gold]Decode:[/gold] Gain [blue]{Evoke}[/blue] [gold]Weak[/gold].",
+  "RIMEDANCERMOD-SPECTRE.description": "Orb: Increases damage taken, When [gold]Decoded[/gold] grants [gold]Weak[/gold].",
+  "RIMEDANCERMOD-SPECTRE.title": "Spectre"
+}

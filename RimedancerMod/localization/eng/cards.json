@@ -1,0 +1,92 @@
+{
+  "RIMEDANCERMOD-RIMEDANCER_STRIKE.description": "Deal {Damage:diff()} damage.",
+  "RIMEDANCERMOD-RIMEDANCER_STRIKE.title": "Strike",
+  "RIMEDANCERMOD-RIMEDANCER_DEFEND.description": "Gain {Block:diff()} [gold]Block[/gold].",
+  "RIMEDANCERMOD-RIMEDANCER_DEFEND.title": "Defend",
+  "RIMEDANCERMOD-CRYSTALIZE.description": "Gain {Block:diff()} [gold]Block[/gold].\n[gold]Channel[/gold] {Channel:diff()} [gold]Icicle[/gold].",
+  "RIMEDANCERMOD-CRYSTALIZE.title": "Crystallize",
+  
+  "RIMEDANCERMOD-HAILSTONE_HAZE.description": "Deal {Damage:diff()} damage.\n[gold]Flourish[/gold]",
+  "RIMEDANCERMOD-HAILSTONE_HAZE.title": "Hailstone Haze",
+  
+  "RIMEDANCERMOD-FRACTAL_FLASH.description": "Apply {WeakPower:diff()} [gold]Weak[/gold].\nNext turn, Gain {Energy:energyIcons()}.",
+  "RIMEDANCERMOD-FRACTAL_FLASH.title": "Dazzling Gleam",
+  
+  "RIMEDANCERMOD-MAGIC_MISSILE.description": "[gold]Fire[/gold] {Fire:diff()} at random enemies with {Damage:diff()} extra damage.",
+  "RIMEDANCERMOD-MAGIC_MISSILE.title": "Magic Missile",
+  
+  "RIMEDANCERMOD-FROSTBITE.description": "Deal {Damage:diff()} damage.\nApply {Rime:diff()} [gold]Rime[/gold].",
+  "RIMEDANCERMOD-FROSTBITE.title": "Frostbite",
+
+  "RIMEDANCERMOD-PILLAROF_FROST.description": "Gain {Block:diff()} [gold]Block[/gold].\nGain {Fervor:diff()} [gold]Fervor[/gold].",
+  "RIMEDANCERMOD-PILLAROF_FROST.title": "Pillar of Frost",
+  
+  "RIMEDANCERMOD-FRACTAL_ARROW.description": "Deal {Damage:diff()} damage.\nGain {Barrage:diff()} Orb Slots.\nGain {Barrage:diff()} [gold]Barrage[/gold].",
+  "RIMEDANCERMOD-FRACTAL_ARROW.title": "Fractal Arrow",
+  
+  "RIMEDANCERMOD-GATHERING_STORM.description": "[gold]Channel[/gold] {Channel:diff()} [gold]Hail[/gold].",
+  "RIMEDANCERMOD-GATHERING_STORM.title": "Gathering Storm",
+  
+  "RIMEDANCERMOD-FREEZE.description": "Apply {Rime:diff()} [gold]Rime[/gold].",
+  "RIMEDANCERMOD-FREEZE.title": "Freeze",
+  
+  "RIMEDANCERMOD-WARDING_RUNE.description": "[gold]Deploy[/gold] {Deploy:diff()} an [gold]Explosive Rune[/gold]",
+  "RIMEDANCERMOD-WARDING_RUNE.title": "Warding Rune",
+
+  "RIMEDANCERMOD-FUMA_SHURIKEN.description": "Deal {Damage:diff()} damage.\nDraw {Cards:diff()} {Cards:plural:card|cards}.",
+  "RIMEDANCERMOD-FUMA_SHURIKEN.title": "Shuriken Toss",
+
+  "RIMEDANCERMOD-RAITON.description": "Deal {CalculatedDamage:diff()} damage.\nOther cards in [gold]Hand[/gold] contribute {HandBonus:diff()} additional damage.",
+  "RIMEDANCERMOD-RAITON.title": "Cloudburst",
+
+  "RIMEDANCERMOD-KATON.description": "Deal {Damage:diff()} damage.\nDeal {AoE:diff()} damage to ALL enemies.",
+  "RIMEDANCERMOD-KATON.title": "Spiritfire Blast",
+
+  "RIMEDANCERMOD-LOW_BLOW.description": "Deal {Damage:diff()} damage.\n[gold]Exploit[/gold] [gold]Weak[/gold]- Gain {Block:diff()} [gold]Block[/gold].",
+  "RIMEDANCERMOD-LOW_BLOW.title": "Low Blow",
+
+  "RIMEDANCERMOD-STREET_RINK.description": "Apply {VulnerablePower:diff()} [gold]Vulnerable[/gold] {IfUpgraded:show:to ALL enemies}.",
+  "RIMEDANCERMOD-STREET_RINK.title": "Street Rink",
+
+  "RIMEDANCERMOD-GUT_SHOT.description": "Deal {Damage:diff()} damage.\nApply {VulnerablePower:diff()} [gold]Vulnerable[/gold].",
+  "RIMEDANCERMOD-GUT_SHOT.title": "Gut Shot",
+
+  "RIMEDANCERMOD-HYOTON.description": "Deal {Damage:diff()} damage.\n[gold]Exploit[/gold] [gold]Rime[/gold]- Apply {WeakPower:diff()} [gold]Weak[/gold] and {FrostFever:diff()} [gold]Frost Fever[/gold].",
+  "RIMEDANCERMOD-HYOTON.title": "Binding Ice",
+
+  "RIMEDANCERMOD-CRYSTAL_CHAKRAM.description": "[gold]Fire[/gold] {Fire:diff()} that draws a card at the enemy with {Damage:diff()} extra damage.",
+  "RIMEDANCERMOD-CRYSTAL_CHAKRAM.title": "Crystal Chakram",
+
+  "RIMEDANCERMOD-CRYO_SHRAPNEL.description": "[gold]Fire[/gold] {Fire:diff()} that apply {WeakPower:diff()} [gold]Weak[/gold].",
+  "RIMEDANCERMOD-CRYO_SHRAPNEL.title": "Cryo Shrapnel",
+
+  "RIMEDANCERMOD-ICE_BARRIER.description": "Gain {Block:diff()} [gold]Block[/gold].\nApply {Rime:diff()} [gold]Rime[/gold].",
+  "RIMEDANCERMOD-ICE_BARRIER.title": "Ice Barrier",
+
+  "RIMEDANCERMOD-HOLLOW_CLOAK.description": "Gain {Block:diff()} [gold]Block[/gold].\n[gold]Flourish[/gold] {Repeat:plural:|twice}",
+  "RIMEDANCERMOD-HOLLOW_CLOAK.title": "Hollow Cloak",
+
+  "RIMEDANCERMOD-SNOWSCAPE.description": "Apply {Rime:diff()} [gold]Rime[/gold] {IfUpgraded:show:to ALL enemies}.\n[gold]Channel[/gold] {Channel:diff()} [gold]Hail[/gold].",
+  "RIMEDANCERMOD-SNOWSCAPE.title": "Snowscape",
+
+  "RIMEDANCERMOD-EVASIVE_SWIPE.description": "Gain {Block:diff()} [gold]Block[/gold].\n[gold]Exploit[/gold] [gold]Weak[/gold]- Draw {Cards:diff()} {Cards:plural:card|cards} and [gold]Flourish[/gold] {Repeat:plural:|twice}.",
+  "RIMEDANCERMOD-EVASIVE_SWIPE.title": "Evasive Swipe",
+
+  "RIMEDANCERMOD-HAT_TRICK.description": "[gold]Flourish[/gold] {Repeat:cond:>2?{Repeat:diff()} times|twice}.\nShuffle the top card of your [gold]Draw Pile[/gold] into your [gold]Bag of Tricks[/gold]",
+  "RIMEDANCERMOD-HAT_TRICK.title": "Hat Trick",
+
+  "RIMEDANCERMOD-RAZOR_ICE.description": "[gold]Channel[/gold] {Channel:diff()} [gold]Icicle{Channel:plural:|s}[/gold].\nGain {ThornsPower:diff()} [gold]Thorns[/gold] this turn.",
+  "RIMEDANCERMOD-RAZOR_ICE.title": "Razorice",
+  
+  "RIMEDANCERMOD-ILLUSIONARY_SPOOKY.description": "[gold]Encode[/gold] {Encode:diff()} [gold]Spectre[/gold].",
+  "RIMEDANCERMOD-ILLUSIONARY_SPOOKY.title": "Illusionary Spook",
+  
+  "RIMEDANCERMOD-FLANKING_STRIKE.description": "Deal {Damage:diff()} damage.\n[gold]Channel[/gold] {Channel:diff()} [gold]Icicle[/gold].\n[gold]Fire[/gold] {Fire:diff()}",
+  "RIMEDANCERMOD-FLANKING_STRIKE.title": "Flanking Strike",
+
+  "RIMEDANCERMOD-MARKING_SHOT.description": "[gold]Fire[/gold] {Fire:diff()} at the enemy with {Damage:diff()} extra damage.\nEach fired [gold]Icicle[/gold] [gold]Exploits[/gold] [gold]Weak[/gold]- apply {VulnerablePower:diff()} [gold]Vulnerable[/gold].",
+  "RIMEDANCERMOD-MARKING_SHOT.title": "Marking Shot",
+
+  "RIMEDANCERMOD-RIGGED_GAMBIT.description": "When attacked, the attacker becomes [gold]Aimed[/gold] then [gold]Fire[/gold] {Fire:diff()}.",
+  "RIMEDANCERMOD-RIGGED_GAMBIT.title": "Rigged Gambit"
+}

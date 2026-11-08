@@ -1,0 +1,16 @@
+{
+  "RIMEDANCERMOD-RIMEDANCER_MOD.aromaPrinciple": "[sine][color=#0F52BA]The Atlas... Retrieve the stolen Atlas...[/color=#0F52BA][/sine]",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.banter.alive.endTurnPing": "Move, or be left behind.",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.banter.dead.endTurnPing": "...",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.cardsModifierDescription": "Rimedancer cards will now appear in rewards and shops.",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.cardsModifierTitle": "Rimedancer Cards",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.description": "A light fingered charlatan magician from a distant land.\nUses rudimentary thaumaturgy, and deadly precision when conflict cannot be evaded entirely.",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.eventDeathPrevention": "Co-op survival line",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.goldMonologue": "Wonder if there's any fence about...",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.possessiveAdjective": "his",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.pronounObject": "him",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.pronounPossessive": "his",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.pronounSubject": "he",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.title": "The Rimedancer",
+  "RIMEDANCERMOD-RIMEDANCER_MOD.titleObject": "The Rimedancer"
+}

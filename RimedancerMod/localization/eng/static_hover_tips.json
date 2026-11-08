@@ -1,0 +1,25 @@
+{
+  "RIMEDANCERMOD-FLOURISH.description": "Add a random card from your [gold]Bag of Tricks[/gold] to your hand.\nIf your [gold]Bag of Tricks[/gold] is empty, first move all [gold]Spells[/gold] outside your hand to it.",
+  "RIMEDANCERMOD-FLOURISH.title": "Flourish",
+
+  "RIMEDANCERMOD-DEPLOY.description": "Deploys the listed trap.\nIf you already have an active trap it gets that much [gold]Block[/gold]",
+  "RIMEDANCERMOD-DEPLOY.title": "Deploy",
+
+  "RIMEDANCERMOD-FIRE.description": "Trigger up to X [gold]Icicles[/gold]",
+  "RIMEDANCERMOD-FIRE.title": "Fire X",
+
+  "RIMEDANCERMOD-EXPLOIT.description": "A bonus effect if the target of this cards effects has a listed debuff.",
+  "RIMEDANCERMOD-EXPLOIT.title": "Exploit X",
+
+  "RIMEDANCERMOD-AIMED.description": "Will be targeted by your [gold]Icicles[/gold].\nThe last enemy you targeted with a card is automatically [gold]Aimed[/gold].",
+  "RIMEDANCERMOD-AIMED.title": "Aimed",
+
+  "RIMEDANCERMOD-ENCODE.description": "[gold]Encoding[/gold] an orb puts it into the enemy's first empty slot. if it has no empty slots their first Orb is automatically [gold]Decoded[/gold] to make room.",
+  "RIMEDANCERMOD-ENCODE.title": "Encode",
+
+  "RIMEDANCERMOD-DECODE.description": "Consume the enemy's rightmost Orb and use its [gold]Decode[/gold] effect.",
+  "RIMEDANCERMOD-DECODE.title": "Decode",
+
+  "RIMEDANCERMOD-CIPHER.description": "When played [gold]Encodes[/gold] as orb with this cards effects on this cards target until it is [gold]Decoded[/gold].",
+  "RIMEDANCERMOD-CIPHER.title": "Cipher"
+}

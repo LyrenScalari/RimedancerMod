@@ -1,0 +1,36 @@
+{
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.0-0.char": "Defenseless and alone, an easy mark...",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.0-0.next": "Continue",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.0-1.ancient": "What a worthless urchin, BEGONE.",
+  
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.1-0.ancient": "You return? What is it you seek?",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.1-0.next": "Answer",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.1-1.char": "The Unseen Atlas... A Stolen Relic of my-",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.1-1.next": "Continue",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.1-2.ancient": "Never. None shall bear the Atlas again.",
+
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.2-0r.ancient": "Don't think you can avoid my gaze wretch!",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.2-0r.next": "Appear",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.2-1r.char": "[i][font_size=22]The Rimedancer steps out of the shadows...[/font_size][/i]",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.2-1r.next": "Continue",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.2-2r.ancient": "Lone Phantom, forget the Atlas, pester me no more!",
+  
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.3-0r.ancient": "Your persistence defies logic.",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.3-0r.next": "Continue",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.3-1r.char": "Until the Atlas is in my claws, I must persist.",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.3-1r.next": "Continue",
+  "THE_ARCHITECT.talk.RIMEDANCERMOD-RIMEDANCER_MOD.3-2r.ancient": "A pity, your search will never end then.",
+  
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.0-0.ancient": "[sine]...Knave.. arise...\n....Seek The Atlas...[/sine]",
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.0-0.next": "Talk",
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.0-1.char": "And who might you be? Wiser of my own quest than I?",
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.0-1.next": "Continue",
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.0-2.ancient": "[sine]enemy... ...of your..... enemy...[/sine]",
+  
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.1-0r.ancient": "[sine]...The.. Atlas...\n....break.. your.. ...chains....[/sine]",
+  
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.2-0.ancient": "[sine]...I.. can’t... ..make...\n...you.. forget....[/sine]",
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.2-0.next": "Respond",
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.2-1.char": "[i][font_size=22]<resolute beeping sounds>[/font_size][/i]",
+  "NEOW.talk.RIMEDANCERMOD-RIMEDANCER_MOD.2-1.next": "Continue"
+}

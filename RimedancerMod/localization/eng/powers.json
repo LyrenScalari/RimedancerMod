@@ -1,0 +1,23 @@
+{
+  "RIMEDANCERMOD-RIME.description": "Creatures with [gold]Rime[/gold] give the source of unblocked non-attack damage [gold]Block[/gold]. When dealt unblocked non-attack damage [gold]Rime[/gold] is reduced by [blue]1[/blue].",
+  "RIMEDANCERMOD-RIME.smartDescription": "When dealt unblocked non-attack damage, give the source [blue]{Amount:abs()}[/blue] [gold]Block[/gold] and [gold]Rime[/gold] is reduced by [blue]1[/blue].",
+  "RIMEDANCERMOD-RIME.title": "Rime",
+  "RIMEDANCERMOD-FERVOR.description": "Fervor increases the effectiveness of [gold]Orbs[/gold] you channel and [gold]Spells[/gold] you play.\nFervor is reduced by [blue]1[/blue] upon activation",
+  "RIMEDANCERMOD-FERVOR.smartDescription": "Fervor increases the effectiveness of Spells by [blue]{Amount:abs()}[/blue] then [gold]Fervor[/gold] is reduced by [blue]1[/blue].\nAfter you channel an Orb increase its effectiveness by [blue]{Amount:abs()} then [gold]Fervor[/gold] is reduced by [blue]1[/blue].",
+  "RIMEDANCERMOD-FERVOR.title": "Fervor",
+  "RIMEDANCERMOD-BARRAGE.description": "After you [gold]Evoke[/gold] an [gold]Orb[/gold] lose [blue]1[/blue] Orb Slot.",
+  "RIMEDANCERMOD-BARRAGE.smartDescription": "After you [gold]Evoke[/gold] an [gold]Orb[/gold] lose an Orb Slot and Barrage is reduced by [blue]1[/blue].",
+  "RIMEDANCERMOD-BARRAGE.title": "Barrage",
+  "RIMEDANCERMOD-FROST_FEVER.description": "Creatures with [gold]Frost Fever[/gold] lose HP equal to the highest amount among debuffs they have and reduces the debuff with the highest amount by [blue]1[/blue].",
+  "RIMEDANCERMOD-FROST_FEVER.smartDescription": "At the end of turn, lose HP equal to the highest amount among your debuffs and reduce the debuff with the highest amount by [blue]1[/blue].",
+  "RIMEDANCERMOD-FROST_FEVER.title": "Frost Fever",
+  
+  "RIMEDANCERMOD-RIGGED_GAMBIT.description": "",
+  "RIMEDANCERMOD-RIGGED_GAMBIT.smartDescription": "When attacked, the attacker becomes [gold]Aimed[/gold] and [gold]Fire[/gold] [blue]{Amount:abs()}[/blue].",
+  "RIMEDANCERMOD-RIGGED_GAMBIT.title": "Rigged Gambit",
+  
+
+  "RIMEDANCERMOD-EXPLOSIVE_RUNE.description": "This trap absorbs all unblocked attack damage for you.\nWhen this trap takes damage, it explodes dealing damage back to all enemies.",
+  "RIMEDANCERMOD-EXPLOSIVE_RUNE.smartDescription": "",
+  "RIMEDANCERMOD-EXPLOSIVE_RUNE.title": "Explosive Rune"
+}

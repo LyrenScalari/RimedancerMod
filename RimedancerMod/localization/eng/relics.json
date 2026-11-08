@@ -1,0 +1,10 @@
+{
+  "RIMEDANCERMOD-CRYONITE_SHARD.description": "At the start of each combat, [gold]Channel[/gold] [blue]{Icicles}[/blue] [gold]Icicle[/gold].",
+  "RIMEDANCERMOD-CRYONITE_SHARD.flavor": "A crude self sharpening blade, wounds it causes are slow to heal due to the blades chill limiting blood flow and letting the wound fester longer",
+  "RIMEDANCERMOD-CRYONITE_SHARD.title": "Cryonite Shard",
+  "RIMEDANCERMOD-SCROLLOF_WINTER.description": "At the start of each combat, gain [blue]{Fervor}[/blue] [gold]Fervor[/gold], [gold]Channel[/gold] [blue]{Icicles}[/blue] [gold]Icicle[/gold].",
+  "RIMEDANCERMOD-SCROLLOF_WINTER.flavor": "An old tattered parchment used by the agents of subterfuge and sabotage of the Wailing Peaks, it's imbued with the wisdom of long since passed elders.",
+  "RIMEDANCERMOD-SCROLLOF_WINTER.title": "Scroll of Winter",
+
+  "SEA_GLASS.RIMEDANCERMOD-RIMEDANCER_MOD.title": "Trick Glass"
+}

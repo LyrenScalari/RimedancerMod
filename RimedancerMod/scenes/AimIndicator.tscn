@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://df1f742fcgspx"]
+
+[ext_resource type="Texture2D" uid="uid://dl7py6op0ukva" path="res://RimedancerMod/images/aimindicator.png" id="1_jswk2"]
+[ext_resource type="Script" uid="uid://b84fov34aepk6" path="res://RimedancerModCode/Ui/NAimIndicator.cs" id="2_335v6"]
+
+[node name="AimIndicator" type="TextureRect"]
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("1_jswk2")
+script = ExtResource("2_335v6")
